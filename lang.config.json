@@ -1,0 +1,41 @@
+[
+    {
+        "key": "greeting",
+        "langs": [
+            "en",
+            "es",
+            "it"
+        ],
+        "trans": [
+            "hello world",
+            "hola mundo",
+            "ciao mondo"
+        ]
+    },
+    {
+        "key": "farewell",
+        "langs": [
+            "en",
+            "es",
+            "it"
+        ],
+        "trans": [
+            "goodbye world",
+            "alv mundo",
+            "ciao mondo"
+        ]
+    },
+    {
+        "key": "insult",
+        "langs": [
+            "en",
+            "es",
+            "it"
+        ],
+        "trans": [
+            "asshole",
+            "alv morro",
+            "vaffanculo"
+        ]
+    }
+]
